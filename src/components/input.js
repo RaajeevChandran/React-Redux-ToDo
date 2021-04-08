@@ -14,6 +14,7 @@ const Input = () =>{
             "done":false,
             "id":Date.now()
         }))
+    console.log("Added");
     }
 
     return (
