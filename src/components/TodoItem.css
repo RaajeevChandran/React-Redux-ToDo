@@ -1,10 +1,10 @@
 .todoItem{
     display: flex;
     align-items: center;
-    width:80%;
-    height: 40px;
+    width:100%;
+    min-height: 40px;
     background-color: #fff;
-    margin:6px 4px;
+    margin:6px 6px;
     border-radius: 12px;
 }
 
